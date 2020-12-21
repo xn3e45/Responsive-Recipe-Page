@@ -42,6 +42,7 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+   - On my website I've left the link below check it out.
 - What was your experience?
    - By far the hardest challenge I've had up to this point I learned so much in the process, I was introduce to HTML forms while also picking up a few more tricks using flexbox.
 - What have you learned/improved?
