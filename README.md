@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Responsive Recipe Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -43,8 +43,11 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - Where can I see your demo?
 - What was your experience?
+   - By far the hardest challenge I've had up to this point I learned so much in the process, I was introduce to HTML forms while also picking up a few more tricks using flexbox.
 - What have you learned/improved?
+   - Learned to properly layout a page using flexbox to get the look Im going for.
 - Your wisdom? :)
+   - Practice, practice and practice some more.
 
 ### Built With
 
@@ -89,6 +92,5 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [ndflow.com](https://ndflow.com)
+- GitHub [@your-username](https://github.com/xn3e45)
